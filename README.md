@@ -8,12 +8,11 @@ CPSC 335-01 13115
 
 Date: 03/20/2016
 
+Professor: Doina Bein
 
 
 
 Assignment 1: Alternating disks problem, left-to-right algorithm
-
-Professor: Doina Bein
 
 Given 2n alternating disks (dark, dark, light, light)the program reads the number of single color disks (light or dark), arranges the disks in the correct order and outputs the number of swaps
 
@@ -25,8 +24,6 @@ OUTPUT: a list of 2n disks, the first n disks are light and the next n disks are
 
 
 Assignment 1: Alternating disks problem, lawnmower algorithm
-
-Professor: Doina Bein
 
 Given 2n alternating disks (dark, dark, light, light) the program reads the number of single color disks (light or dark), arranges the disks in the correct order and outputs the number of swaps
 
@@ -42,12 +39,14 @@ INPUT: a positive integer n and a list of n elements
 
 OUTPUT: a longest non-decreasing subsequence of the initial sequence   
 
+
 Assignment 2: Longest non-decreasing subsequence problem, power set algorithm                                                                   
 Given a sequence of elements the program finds a subsequence of it in which the subsequence's elements are in sorted order, lowest to highest, and in which the subsequence is as long as possible. The program reads the number of elements in the sequence, then the elements and outputs the sorted sequence and the running time. 
 
 INPUT: a positive integer n and a list of n elements  
 
 OUTPUT: a longest non-decreasing subsequence of the initial sequence 
+
 
 Assignment 3: Euclidean traveling salesperson problem: exhaustive optimization algorithm
 
@@ -57,6 +56,7 @@ INPUT: a positive integer n and a list P of n distinct points representing verti
 
 OUTPUT: a list of n points from P representing a Hamiltonian cycle of minimum total weight for the graph.
 
+
 Assignment 3: Euclidean traveling salesperson problem: improved nearest neighbor algorithm
 
 A special case of the classical traveling salesman problem (TSP) where the input is a Euclidean graph
@@ -64,6 +64,7 @@ A special case of the classical traveling salesman problem (TSP) where the input
 INPUT: a positive integer n and a list P of n distinct points representing vertices of a Euclidean graph
 
 OUTPUT: a list of n points from P representing a Hamiltonian cycle of relatively minimum total weight for the graph.
+
 
 Assignment 4: Cuckoo Hashing algorithm
 
